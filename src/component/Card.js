@@ -25,7 +25,7 @@ export default class PersonList extends React.Component {
           <div className='card-body'>
           <h2 className='card-title'>{person.name}</h2>
           <p className='card-text'>{person.location.name}</p>
-          <a href='#' className='btn btn-dark'>Détails</i> </a>
+          <a href='#' className='btn btn-dark'>Détails</a>
           
           </div>
         </div>
