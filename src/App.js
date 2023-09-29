@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from '../src/assets/img/logo-rick-et-morty.png';
 import './App.css';
 
 function App() {
