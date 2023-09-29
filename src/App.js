@@ -11,9 +11,6 @@ function App() {
         <p className='desc'>
           Rick et Morty : apprentissage de react sans prise de tête
         </p>
-        <div className='square'>
-          <img src='./'/>
-        </div>
         <Card/>
       </header>
     </div>
